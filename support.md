@@ -10,8 +10,8 @@ recordings and links that go with a song, on your phone and off the internet.
 
 ## Getting help
 
-Email **callumpmaclellan@proton.me**. Say which device you are on and what you
-were doing, and include a screenshot if there is anything to see.
+Email **88_intake.troupes@icloud.com**. Say which device you are on and what
+you were doing, and include a screenshot if there is anything to see.
 
 ## Common questions
 
@@ -65,4 +65,3 @@ getting right.
 No accounts, no subscription, no advertising, no analytics. It works with the
 phone in flight mode, which is the point — the places people sing are often the
 places with no signal.
-
