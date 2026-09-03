@@ -77,5 +77,4 @@ ships, and the date at the top will say when.
 
 ## Contact
 
-Questions about privacy, or about the app: **callumpmaclellan@proton.me**
-
+Questions about privacy, or about the app: **88_intake.troupes@icloud.com**
