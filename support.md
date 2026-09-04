@@ -19,6 +19,11 @@ you were doing, and include a screenshot if there is anything to see.
 On your device, in the app's own storage. There is no account and no server —
 nothing is uploaded anywhere. See the [privacy policy](privacy.md).
 
+**How do I share one song, or its words?**
+Open the song and use the share button in the toolbar — *Share the words* sends
+plain text anyone can read, *Share the song file* sends a file that opens in
+Òrain at the other end. Both are also in the **⋯** menu.
+
 **How do I get my songs onto another device?**
 Export the library from the Songs tab — the download-arrow button, then *Export
 this library…* — and send the file to the other device however you like. Open
@@ -32,7 +37,7 @@ land on: `[G]Ailein duinn`. If you paste words with chords written on the line
 above, the editor offers to convert them.
 
 **How do I change the key?**
-Open a song, then the **⋯** menu → *Transpose*. Choose the chord you want to
+Open a song, then the **⋯** menu → *Change key…*. Choose the chord you want to
 start on and every other chord moves with it. It saves as a new version, so the
 original is still there; versions can be renamed, deleted, or made the default.
 
