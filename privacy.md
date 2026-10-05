@@ -5,12 +5,13 @@ permalink: /privacy
 
 # Privacy Policy — Òrain
 
-*Last updated: 11 August 2026*
+*Last updated: 5 October 2026*
 
 Òrain collects nothing.
 
 That is the whole policy, but the App Store requires it spelled out, and a
-one-line answer to a serious question deserves the detail behind it.
+one-line answer to a serious question deserves the detail behind it. Òrain runs
+on iPhone, iPad and Mac, and everything below applies to all three.
 
 ## What the app stores, and where
 
@@ -19,12 +20,29 @@ a database inside the app's own container on your device. Recordings you make
 and files you import — audio, video, PDFs — are kept as files in that same
 container.
 
-None of it is sent anywhere. There is no Òrain account, no Òrain server, and
-no sign-in. Nobody, including the developer, can see your library.
+None of it is sent to the developer. There is no Òrain account, no Òrain server,
+and no sign-in. Nobody, including the developer, can see your library.
 
-If you have iCloud Backup switched on, your device may include the app's data
-in your own encrypted backup. That is Apple's backup of your device, under your
-Apple Account, and is covered by Apple's privacy policy rather than this one.
+## iCloud sync
+
+If iCloud is available, Òrain keeps your library in step across your own
+devices through your own private iCloud account (Apple's CloudKit), and your
+recordings travel with it. That data lives in your iCloud, under your Apple
+Account, and is covered by Apple's privacy policy. The developer cannot read
+it. You can turn sync off in Settings, and with it off nothing leaves the
+device.
+
+If you have iCloud Backup switched on, your device may also include the app's
+data in your own encrypted backup. That is Apple's backup of your device, under
+your Apple Account.
+
+## Buying the full version
+
+Òrain is free to download, with room for 10 songs of your own. A one-time
+in-app purchase, bought through the App Store, removes the limit. Apple handles
+the payment and tells the app only whether the purchase has been made. The
+developer does not receive your name, payment details or any other personal
+information, and Òrain stores nothing about you for this.
 
 ## What the app does not do
 
@@ -36,7 +54,7 @@ Apple Account, and is covered by Apple's privacy policy rather than this one.
 
 ## The microphone
 
-If you record yourself singing, iOS asks your permission for the microphone
+If you record yourself singing, your device asks your permission for the microphone
 the first time. The recording is written straight to a file in the app's own
 container. It is not transmitted, not processed anywhere else, and not
 transcribed. You can delete it from within the app, and deleting the app
@@ -67,8 +85,10 @@ wherever you choose to send it and nowhere else.
 
 ## Children
 
-Òrain has no accounts, no messaging, no user-generated content visible to
-anyone else, and no purchases. It collects nothing from anyone of any age.
+Òrain has no accounts, no messaging and no user-generated content visible to
+anyone else. The one in-app purchase is made through the App Store, and Apple
+restricts it to the person who holds the Apple Account (or whoever Family
+Sharing allows). Òrain collects nothing from anyone of any age.
 
 ## Changes
 

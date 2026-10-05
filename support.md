@@ -6,7 +6,7 @@ permalink: /support
 # Òrain — Support
 
 Òrain is a song library for singers: the words, the chords above them, and the
-recordings and links that go with a song, on your phone and off the internet.
+recordings and links that go with a song, on your iPhone, iPad and Mac, and off the internet.
 
 ## Getting help
 
@@ -15,9 +15,30 @@ you were doing, and include a screenshot if there is anything to see.
 
 ## Common questions
 
+**Is Òrain free?**
+Òrain is free to download, and you can add up to 10 songs of your own at no
+cost. The eight songs that come with the app do not count towards the 10. A
+single one-time purchase then unlocks unlimited songs, for good, on iPhone,
+iPad and Mac, and Family Sharing is on. It is not a subscription.
+
+**What happens when I reach 10 songs?**
+Everything you have keeps working: reading, editing, recording, transposing and
+exporting. Only adding a new song is paused — a new song, an import that would
+take you over the limit, and *Make it its own song*. Unlock, and it carries on.
+
+**I bought Òrain before it was free. Do I have to pay again?**
+No. If you bought the paid version, everything is already unlocked. If it ever
+asks, open Settings → Licence and tap *Restore Purchase*.
+
+**How do I restore my purchase on a new device?**
+Settings → Licence → *Restore Purchase*, signed in with the same Apple Account.
+One purchase covers iPhone, iPad and Mac.
+
 **Where are my songs kept?**
-On your device, in the app's own storage. There is no account and no server —
-nothing is uploaded anywhere. See the [privacy policy](privacy.md).
+On your device, in the app's own storage. There is no Òrain account and no
+Òrain server. If iCloud is on, your library is also kept in step across your own
+devices through your own iCloud account, which the developer cannot read; you
+can turn that off in Settings. See the [privacy policy](privacy.md).
 
 **How do I share one song, or its words?**
 Open the song and use the share button in the toolbar — *Share the words* sends
@@ -67,6 +88,6 @@ getting right.
 
 ## What Òrain does not do
 
-No accounts, no subscription, no advertising, no analytics. It works with the
+No accounts, no subscription, no advertising, no analytics. The one purchase is a single payment, once. It works with the
 phone in flight mode, which is the point — the places people sing are often the
 places with no signal.
