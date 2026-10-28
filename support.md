@@ -21,6 +21,13 @@ cost. The eight songs that come with the app do not count towards the 10. A
 single one-time purchase then unlocks unlimited songs, for good, on iPhone,
 iPad and Mac, and Family Sharing is on. It is not a subscription.
 
+**Where are the eight songs that come with the app?**
+If your library is empty, tap *Add the sample songs*. If you already have songs
+of your own, they are in the **⋯** menu at the top of the song list: *Add the
+sample songs*. Any you deleted can be brought back the same way, and any you
+have edited are left as they are. (Up to version 1.2.1 they only appeared by
+themselves when iCloud was off, so most people never saw them.)
+
 **What happens when I reach 10 songs?**
 Everything you have keeps working: reading, editing, recording, transposing and
 exporting. Only adding a new song is paused — a new song, an import that would
