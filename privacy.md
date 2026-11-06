@@ -5,7 +5,7 @@ permalink: /privacy
 
 # Privacy Policy — Òrain
 
-*Last updated: 5 October 2026*
+*Last updated: 5 November 2026*
 
 Òrain collects nothing.
 
@@ -77,6 +77,34 @@ Two things worth knowing about that:
   and receives nothing back.
 - It only happens when you tap. Nothing is contacted while you are reading the
   words, and a song with no links contacts nothing ever.
+
+## Apple Music, Spotify and Bandcamp
+
+From version 1.3, a song on Apple Music, Spotify or Bandcamp linked to a song
+can play in a bar at the top of the song page.
+
+- **Apple Music** plays through Apple's MusicKit. The first time, your device
+  asks your permission for Òrain to use Apple Music. Apple checks your
+  subscription and plays the song; Òrain receives the song and whether it may
+  play it, and nothing else about you or your library. You can withdraw the
+  permission in Settings (on a Mac, System Settings → Privacy & Security →
+  Media & Apple Music). A practice loop you set on a song is kept with the
+  link in your own library, like everything else, and nowhere else.
+- **Spotify** and **Bandcamp** play in their own players, loaded from their
+  servers when you tap play, exactly as a web page would. If you choose
+  *Sign in to Spotify*, you sign in on Spotify's own page; Òrain never sees
+  your email address or password, and the sign-in is kept by the device's web
+  view, not by Òrain.
+- For a Bandcamp link, Òrain fetches the Bandcamp page once to find its player,
+  and remembers the player's number on the device.
+- **Searching** for a recording: Apple Music is searched through MusicKit
+  (Apple), which needs the same permission but not a subscription; ▶ plays
+  Apple's 30-second preview from Apple's servers. A Spotify search opens
+  DuckDuckGo's results limited to Spotify's pages, and a Bandcamp search opens
+  Bandcamp's own search page, each in a web page inside the app. The words you
+  search for go to that company, as they would in a browser.
+
+What those companies collect is governed by their privacy policies.
 
 ## Files you share out
 

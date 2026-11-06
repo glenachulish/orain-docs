@@ -28,6 +28,22 @@ sample songs*. Any you deleted can be brought back the same way, and any you
 have edited are left as they are. (Up to version 1.2.1 they only appeared by
 themselves when iCloud was off, so most people never saw them.)
 
+**Can I listen to a recording while I read the words?**
+Yes. Add the song on Apple Music, Spotify or Bandcamp: **+**, then *Search
+Apple Music…*, *Search Spotify…* or *Search Bandcamp…* to find it from inside
+the app, or *Add a link…* to paste one. It appears as a button in a bar at the top of the song page, and
+plays there while you scroll the words. For Apple Music, share the *song*
+rather than the album, and you need an Apple Music subscription; the first time,
+allow Òrain to use Apple Music. Spotify plays whole tracks once you have chosen
+*Sign in to Spotify* from the player's **⋯** menu, and 30-second previews before
+that.
+
+**How do I loop one part of an Apple Music song?**
+While it plays, tap **A** at the start of the phrase and **B** at the end; it
+then repeats that part. Tap **A–B** to fine-tune either end in quarter-second
+steps, play from A, or clear the loop. The loop is kept with the link, on all
+your devices.
+
 **What happens when I reach 10 songs?**
 Everything you have keeps working: reading, editing, recording, transposing and
 exporting. Only adding a new song is paused — a new song, an import that would
